@@ -110,7 +110,7 @@
 
 #### ISSTA
 
-- 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing [doi](https://dl.acm.org/doi/10.1145/3597926.3598108)
+- 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing [doi](https://dl.acm.org/doi/10.1145/3597926.3598102)
 
 #### NDSS
 
@@ -227,7 +227,7 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 
 * SemFuzz: Semantics-Based Automatic Generation of Proof-of-Concept Exploits (CCS '17) [pdf](https://dl.acm.org/doi/10.1145/3133956.3134085)
 * ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing (S&P '23) [pdf](https://arxiv.org/abs/2304.04233)
-* 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing (ISSTA '23) [doi](https://dl.acm.org/doi/10.1145/3597926.3598108)
+* 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing (ISSTA '23) [doi](https://dl.acm.org/doi/10.1145/3597926.3598102)
 * Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search (S&P '24) [pdf](https://yinzhicao.org/JavaDeserialization/JavaDeserialization-Oakland.pdf)
 * It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation (FSE '26)
 * PUFFERDOS: Efficient and Effective Attack String Generation for Regular Expression Denial of Service Vulnerabilities (S&P '26) [pdf](https://arxiv.org/abs/2606.19654)
