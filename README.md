@@ -50,7 +50,7 @@
 #### ISSTA
 
 - PAGENT: Program Analysis Guided LLM Agent for Proof-of-Concept Generation [pdf](https://arxiv.org/abs/2604.07624)
-- PoCE: Automated Proof-of-Concept Synthesis using Large Language Models for Robust Validation
+- PoCE: Automated Proof-of-Concept Synthesis using Large Language Models for Robust Validation [doi](https://dl.acm.org/doi/10.1145/3832134)
 - Exploiting Ethereum Rollback Semantics: Profit-Driven Attack Synthesis and Off-Chain Misinterpretation Testing
 
 #### ASE
@@ -249,7 +249,7 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 
 * PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in NPM Packages (FSE '26) [pdf](https://arxiv.org/pdf/2506.04962)
 * PAGENT: Program Analysis Guided LLM Agent for Proof-of-Concept Generation (ISSTA '26) [pdf](https://arxiv.org/abs/2604.07624)
-* PoCE: Automated Proof-of-Concept Synthesis using Large Language Models for Robust Validation (ISSTA '26)
+* PoCE: Automated Proof-of-Concept Synthesis using Large Language Models for Robust Validation (ISSTA '26) [doi](https://dl.acm.org/doi/10.1145/3832134)
 * SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution (ASE '26) [pdf](https://arxiv.org/abs/2511.12993)
 * Trace-Driven Automated PoC Synthesis for On-Chain Attacks (ASE '26) [pdf](https://arxiv.org/abs/2601.16681)
 * IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities (ASE '26)
