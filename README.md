@@ -44,7 +44,7 @@
 
 - PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in NPM Packages [pdf](https://arxiv.org/pdf/2506.04962)
 - V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution [pdf](https://arxiv.org/abs/2604.13611)
-- ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
+- ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents [doi](https://dl.acm.org/doi/10.1145/3808157)
 - It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation [doi](https://dl.acm.org/doi/10.1145/3808105)
 
 #### ISSTA
@@ -231,7 +231,7 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 * Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search (S&P '24) [pdf](https://yinzhicao.org/JavaDeserialization/JavaDeserialization-Oakland.pdf)
 * It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation (FSE '26) [doi](https://dl.acm.org/doi/10.1145/3808105)
 * PUFFERDOS: Efficient and Effective Attack String Generation for Regular Expression Denial of Service Vulnerabilities (S&P '26) [pdf](https://arxiv.org/abs/2606.19654)
-* ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents (FSE '26)
+* ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents (FSE '26) [doi](https://dl.acm.org/doi/10.1145/3808157)
 * Contextualizing Sink Knowledge for Java Vulnerability Discovery (S&P '26) [pdf](https://arxiv.org/abs/2604.01645)
 
 #### Symbolic Execution and Constraint Solving
