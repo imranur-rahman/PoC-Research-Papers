@@ -57,7 +57,7 @@
 
 - Trace-Driven Automated PoC Synthesis for On-Chain Attacks [pdf](https://arxiv.org/abs/2601.16681)
 - SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution [pdf](https://arxiv.org/abs/2511.12993)
-- IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities
+- IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities [doi](https://dl.acm.org/doi/10.1145/3832783.3834336)
 - Assessing the Cross-Version Applicability of Java Library Vulnerability Exploits [pdf](https://arxiv.org/abs/2603.25997)
 
 #### TOSEM
@@ -252,7 +252,7 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 * PoCE: Automated Proof-of-Concept Synthesis using Large Language Models for Robust Validation (ISSTA '26) [doi](https://dl.acm.org/doi/10.1145/3832134)
 * SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution (ASE '26) [pdf](https://arxiv.org/abs/2511.12993)
 * Trace-Driven Automated PoC Synthesis for On-Chain Attacks (ASE '26) [pdf](https://arxiv.org/abs/2601.16681)
-* IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities (ASE '26)
+* IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities (ASE '26) [doi](https://dl.acm.org/doi/10.1145/3832783.3834336)
 * V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution (FSE '26) [pdf](https://arxiv.org/abs/2604.13611)
 * PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts (TOSEM '26) [doi](https://dl.acm.org/doi/10.1145/3816704)
 
