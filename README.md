@@ -36,7 +36,7 @@
 #### ICSE
 
 - Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities [pdf](https://arxiv.org/pdf/2511.12950)
-- SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair
+- SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair [doi](https://dl.acm.org/doi/10.1145/3744916.3787825)
 - Do Automated Fixes Truly Mitigate Smart Contract Exploits? (Journal-first) [pdf](https://arxiv.org/abs/2501.04600)
 - Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits (Distinguished Paper Award)
 
@@ -286,7 +286,7 @@ Applications of PoC exploits in vulnerability assessment, exploit prediction, mi
 
 #### PoC-Guided Patch Validation and Repair
 
-* SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair (ICSE '26)
+* SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair (ICSE '26) [doi](https://dl.acm.org/doi/10.1145/3744916.3787825)
 * Do Automated Fixes Truly Mitigate Smart Contract Exploits? (ICSE '26, Journal-first) [pdf](https://arxiv.org/abs/2501.04600)
 
 #### PoC Migration and Transformation
